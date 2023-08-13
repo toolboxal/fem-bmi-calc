@@ -87,7 +87,7 @@ function App() {
         <div className="spine">
           <div className="section-top-container">
             <div className="content-container">
-              <img src="../public/images/logo.svg" alt="" className="logo" />
+              <img src="./images/logo.svg" alt="" className="logo" />
               <h1>Body Mass Index Calculator</h1>
               <p>
                 Better understand your weight in relation to your height using

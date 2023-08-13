@@ -3,7 +3,7 @@ function ThirdSection() {
     <section className="section-3">
       <div className="tips-card">
         <div className="tips-card-img-container">
-          <img src="../public/images/icon-eating.svg" alt="" />
+          <img src="./images/icon-eating.svg" alt="healthy eating icon" />
         </div>
         <div className="text-container">
           <h3>Healthy eating</h3>
@@ -15,7 +15,7 @@ function ThirdSection() {
       </div>
       <div className="tips-card">
         <div className="tips-card-img-container">
-          <img src="../public/images/icon-exercise.svg" alt="" />
+          <img src="./images/icon-exercise.svg" alt="exercise icon" />
         </div>
         <div className="text-container">
           <h3>Regular exercise</h3>
@@ -27,7 +27,7 @@ function ThirdSection() {
       </div>
       <div className="tips-card">
         <div className="tips-card-img-container">
-          <img src="../public/images/icon-sleep.svg" alt="" />
+          <img src="./images/icon-sleep.svg" alt="sleep icon" />
         </div>
         <div className="text-container">
           <h3>Adequate sleep</h3>

@@ -16,10 +16,7 @@ function LastSection() {
           <div className="grid-children child-1">
             <div className="heading-box">
               <div className="img-container">
-                <img
-                  src="../public/images/icon-gender.svg"
-                  alt="gender image"
-                />
+                <img src="./images/icon-gender.svg" alt="gender image" />
               </div>
               <h3>Gender</h3>
             </div>
@@ -33,7 +30,7 @@ function LastSection() {
           <div className="grid-children child-2">
             <div className="heading-box">
               <div className="img-container">
-                <img src="../public/images/icon-age.svg" alt="age image" />
+                <img src="./images/icon-age.svg" alt="age image" />
               </div>
               <h3>Age</h3>
             </div>
@@ -45,10 +42,7 @@ function LastSection() {
           <div className="grid-children child-3">
             <div className="heading-box">
               <div className="img-container">
-                <img
-                  src="../public/images/icon-muscle.svg"
-                  alt="muscle image"
-                />
+                <img src="./images/icon-muscle.svg" alt="muscle image" />
               </div>
               <h3>Muscle</h3>
             </div>
@@ -60,10 +54,7 @@ function LastSection() {
           <div className="grid-children child-4">
             <div className="heading-box">
               <div className="img-container">
-                <img
-                  src="../public/images/icon-pregnancy.svg"
-                  alt="muscle image"
-                />
+                <img src="./images/icon-pregnancy.svg" alt="muscle image" />
               </div>
               <h3>Pregnancy</h3>
             </div>
@@ -76,7 +67,7 @@ function LastSection() {
           <div className="grid-children child-5">
             <div className="heading-box">
               <div className="img-container">
-                <img src="../public/images/icon-race.svg" alt="race image" />
+                <img src="./images/icon-race.svg" alt="race image" />
               </div>
               <h3>Race</h3>
             </div>
@@ -88,7 +79,7 @@ function LastSection() {
           </div>
           <img
             className="curved-right"
-            src="../public/images/pattern-curved-line-right.svg"
+            src="./images/pattern-curved-line-right.svg"
             alt=""
           />
         </div>

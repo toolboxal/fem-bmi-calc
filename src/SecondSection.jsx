@@ -2,15 +2,12 @@ function SecondSection() {
   return (
     <section className="section-2">
       <div className="maneating-img-container">
-        <img
-          src="../public/images/image-man-eating.webp"
-          alt="man eating sushi"
-        />
+        <img src="./images/image-man-eating.webp" alt="man eating sushi" />
       </div>
       <div className="section-2-text-container">
         <img
           className="curved-left"
-          src="../public/images/pattern-curved-line-left.svg"
+          src="./images/pattern-curved-line-left.svg"
           alt="left curve line"
         />
         <h2>What your BMI result means</h2>
