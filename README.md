@@ -1,8 +1,21 @@
-# React + Vite
+# Frontend Mentor - Body Mass Index Calculator solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Body Mass Index Calculator challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/body-mass-index-calculator-brrBkfSz1T).
 
-Currently, two official plugins are available:
+### Screenshot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![](./screenshot.jpg)
+
+### Links
+
+- Live Site URL: [fem-bmi-calc-toolboxal.netlify.app](https://fem-bmi-calc-toolboxal.netlify.app/)
+
+## My process
+
+### Built with
+
+- React
+
+### What I learned
+
+The challenge to switch from metric and imperial units while calculating derived states. Learned to call functions inside jsx to live update BMI while user types into inputs, because of the lack of a form submit button.
